@@ -1,0 +1,19 @@
+{
+  "name": "Wild Night Green[Layiji_Thai]",
+  "displayName": "Wild Night Green[Layiji_Thai]",
+  "description": "A smooth dark theme for Aseprite - Green flavour",
+  "version": "2.4",
+  "author": { "name": "WildLeoKnight", "email": "wildleoknight@gmail.com", "url": "https://wildleoknight.itch.io/aseprite-wild-night-theme" },
+  "contributors": [
+  ],
+  "publisher": "WildLeoKnight",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Wild Night Green[Layiji_Thai]", "path": "." }
+    ]
+  }
+}
