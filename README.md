@@ -1,5 +1,8 @@
-# Wild-Night-Green-Layiji_Thai-
-Wild Night Green 
-Credit: WildLeoKnight
-Layiji มหานิยม
-Credit: Layijipage 
+# Wild Night Green Layiji and Support Thai language
+- Wild Night Green 
+- Layiji มหานิยม
+- My favorite Pallatte
+##  Creadit
+- Original Theame: [@WildLeoKnight](https://github.com/WildLeoKnight)
+- Font: [@Layiji](https://www.facebook.com/layijipage/)
+
