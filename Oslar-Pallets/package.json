@@ -2,7 +2,7 @@
   "name": "Oslar-palette Set",
   "displayName": "Oslar_Pallete Set",
   "description": "Palette created by RhtyhmOwO",
-  "version": "1.0",
+  "version": "1.1",
   "author": { "name": "RhtyhmOwO", "url": "https://x.com/rhythm_0w0" },
   "categories": [
     "Palettes"
@@ -31,8 +31,12 @@
 	  { "id": "pear36", "path": "./pear36.gpl" },
 	  { "id": "endesga-32", "path": "./endesga-32.gpl" },
 	  { "id": "nature-31", "path": "./31.gpl" },
-	 { "id": "1bit-monitor-glow", "path": "./1bit-monitor-glow.gpl" },
-		 { "id": "sweetie-16", "path": "./sweetie-16.gpl"}
+	  { "id": "1bit-monitor-glow", "path": "./1bit-monitor-glow.gpl" },
+	  { "id": "sweetie-16", "path": "./sweetie-16.gpl"},
+	  { "id": "redorb12", "path": "./redorb12" },
+	  { "id": "menacing-sky", "path": "./menacing-sky" },
+	  { "id": "sotc12", "path": "./sotc12" },
+	  { "id": "slso8", "path": "./slso8" }
     ]
   }
 }
